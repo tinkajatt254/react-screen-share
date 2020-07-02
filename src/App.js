@@ -513,7 +513,7 @@ class App extends Component {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <span>(info)</span>
+                  {/* <span>(info)</span> */}
                 </a>
               </small>
             </Label>
