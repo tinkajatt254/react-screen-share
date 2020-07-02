@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  align-items: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.Url {
+  display: inline-block;
+  width: 320px;
+}
+
+#videoElement {
+  background-color: grey;
+}
+
+#panelElement {
+  width: 360px;
+  display: inline-block;
+  font-size: small;
+  text-align: left;
+}
+
+.panel {
+  margin-bottom: 7px;
+}
+
+.panel-body {
+  padding-top: 1px;
+  padding-bottom: 3px;
+}
